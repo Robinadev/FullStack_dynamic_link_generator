@@ -1,0 +1,26 @@
+/* filepath: /c:/Users/user/Documents/Dynamic_link_preview_generator/dynamic_link_preview_generator/src/components/ui/form.css */
+.form-control {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-item {
+    margin-bottom: 10px;
+  }
+  
+  .form-message {
+    color: red;
+    font-size: 12px;
+  }
+  
+  .input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
